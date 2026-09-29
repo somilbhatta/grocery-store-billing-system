@@ -20,13 +20,13 @@
 * No external libraries required.
 
 ## Python Concepts Used
--Lists
--Dictionaries
--Functions
--if-elif-else
--for and while loops
--User input
--Arithmetic operation
+- Lists 
+- Dictionaries
+- Functions
+- if-elif-else
+- for and while loops
+- User input
+- Arithmetic operation
 
 ## Functions Used:
 
