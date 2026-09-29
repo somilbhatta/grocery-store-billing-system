@@ -1,10 +1,10 @@
-project Title
+## project Title
 *Grocery Store Billing System
 
-Overview of the project
+## Overview of the project
 *A lightweight command-line interface application for managing  grocery-store billing.
 
-Features:
+## Features:
 
 - Add products to the cart.
 - Store product name, price, and quantity.
@@ -15,11 +15,11 @@ Features:
 - Generate the final bill.
 - Exit the program through a menu option.
 
-Prerequisites
+## Prerequisites
 * Python3 installed on your system.
 * No external libraries required.
 
-Python Concepts Used
+## Python Concepts Used
 -Lists
 -Dictionaries
 -Functions
@@ -28,7 +28,7 @@ Python Concepts Used
 -User input
 -Arithmetic operation
 
-Functions Used:
+## Functions Used:
 
 add_items()
 Adds a new product to the grocery cart.
